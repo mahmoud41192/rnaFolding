@@ -16,7 +16,7 @@ this contains three classes: <br/>
   the structures from an input file. <br/>
   * the rnaReactionSpace class which handles the interactions and transitions between different RNA confomers. <br/>
 * structure.h: <br/>
- * contains basic functions that are used to find the possible new RNA confomers after adding a new nucleotide. <br/>
+contains basic functions that are used to find the possible new RNA confomers after adding a new nucleotide. <br/>
 * masterEquation.h: <br/>
 contains functions that are used to calculate the updated populations after adding a new nucleotides. <br/>
 * lignad.h: <br/>
