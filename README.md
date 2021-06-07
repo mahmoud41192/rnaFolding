@@ -10,7 +10,7 @@ outputing a file containing all the information about the simulation.
 there are the main libraries which define the structure of RNA, and computational tools. <br/>
 rna.h: <br/>
 * this contains three classes: <br/>
-** (1)the rnaMolecule class which contains the basic information about an RNA molecule and its structure, as well as 
+* the rnaMolecule class which contains the basic information about an RNA molecule and its structure, as well as 
 ** some of the basic operations that can be done to modify such molecule. <br/>
 >>(2)the rnaList class which mediates how to handle a list of rnaMolecule objects, as well as how to read and fetch 
 >>the structures from an input file. <br/>
